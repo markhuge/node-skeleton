@@ -1,0 +1,1 @@
+cookbook "nodejs", git: "https://github.com/markhuge/nodejs-cookbook.git"
